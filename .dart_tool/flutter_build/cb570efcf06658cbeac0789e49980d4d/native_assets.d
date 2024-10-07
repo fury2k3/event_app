@@ -1,0 +1,1 @@
+ C:\\Users\\furyj\\Desktop\\pfe\\event_app\\.dart_tool\\flutter_build\\cb570efcf06658cbeac0789e49980d4d\\native_assets.yaml: 

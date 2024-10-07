@@ -1,0 +1,39 @@
+{
+  "app_name": "Event App",
+  "next": "NEXT",
+  "finish": "FINISH",
+  "cancel": "Cancel",
+  "choose": "Choose",
+  "auth" : {
+    "username" : "User Name",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email" : "Email Address",
+    "password" : "Password",
+    "confirm_password" : "Confirm Password",
+    "forgot_password": "Forgot Password? ",
+    "login" : "LOG IN",
+    "not_having_account": "Don't have an account ? ",
+    "join_us" : "Join us",
+    "sign_in" : "Sign In",
+    "sign_up" : "Sign Up",
+    "hint_email" : "Enter your email",
+    "hint_password" : "Enter your password",
+    "hint_re_password" : "Re-enter your password",
+    "hint_username" : "Enter your username",
+    "hint_first_name" : "Enter your first name",
+    "hint_last_name" : "Enter your last name"
+  },
+  "settings": {
+    "english": "English",
+    "french": "French"
+  },
+  "server": {
+    "credentials_exception": "Invalid credentials.",
+    "customer_exist_exception": "User already exist.",
+    "internal_exception": "Oops! Something went wrong on our end. Please try again later.",
+    "internet_exception": "No internet connection. Please check your network settings and try again.",
+    "unexpected_exception": "An unexpected error occurred. Please try again later or contact support for assistance.",
+    "try_again": "Try Again"
+  }
+}
